@@ -8,6 +8,7 @@ public class CharcterConreoller : MonoBehaviour
     void Start()
     {
       // bibib
+        //fghjkl;
     }
 
     // Update is called once per frame
